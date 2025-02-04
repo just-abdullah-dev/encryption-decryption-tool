@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="XORCipher" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="default">
+				<Option output="XORCipher" prefix_auto="1" extension_auto="1" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+			</Target>
+		</Build>
+		<Unit filename="header.h" />
+		<Unit filename="hexadecimal.cpp" />
+		<Unit filename="hexadecimal.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="mainheader.h" />
+		<Unit filename="xorcipher.cpp" />
+		<Unit filename="xorcipher.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/PMLS/OneDrive - Higher Education Commission/Abdullah University Data/2nd Semester__3.21/OOP/OOP Theory/OOP Project/Final Project/OOP Project XORCipher Final/Project_XORCipher -Final-Complete",
+      "program": "c:/Users/PMLS/OneDrive - Higher Education Commission/Abdullah University Data/2nd Semester__3.21/OOP/OOP Theory/OOP Project/Final Project/OOP Project XORCipher Final/Project_XORCipher -Final-Complete/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

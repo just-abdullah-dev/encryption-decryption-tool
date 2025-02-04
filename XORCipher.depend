@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1687073533 source:c:\users\abdullah rahim\onedrive - higher education commission\abdullah university data\second semester\oop\oop theory\oop project\project_xorcipher - codeblock\hexadecimal.cpp
+	"hexadecimal.h"
+
+1687070193 c:\users\abdullah rahim\onedrive - higher education commission\abdullah university data\second semester\oop\oop theory\oop project\project_xorcipher - codeblock\hexadecimal.h
+	"header.h"
+
+1687065540 c:\users\abdullah rahim\onedrive - higher education commission\abdullah university data\second semester\oop\oop theory\oop project\project_xorcipher - codeblock\header.h
+	<iostream>
+	<string>
+	<fstream>
+	<bitset>
+	<iomanip>
+	<vector>
+
+1687066999 source:c:\users\abdullah rahim\onedrive - higher education commission\abdullah university data\second semester\oop\oop theory\oop project\project_xorcipher - codeblock\xorcipher.cpp
+	"xorcipher.h"
+
+1687066956 c:\users\abdullah rahim\onedrive - higher education commission\abdullah university data\second semester\oop\oop theory\oop project\project_xorcipher - codeblock\xorcipher.h
+	"header.h"
+
+1687071878 source:c:\users\abdullah rahim\onedrive - higher education commission\abdullah university data\second semester\oop\oop theory\oop project\project_xorcipher - codeblock\main.cpp
+	"mainheader.h"
+
+1687066622 c:\users\abdullah rahim\onedrive - higher education commission\abdullah university data\second semester\oop\oop theory\oop project\project_xorcipher - codeblock\mainheader.h
+	"header.h"
+	"hexadecimal.h"
+
+1687091900 source:c:\users\abdullah rahim\onedrive - higher education commission\abdullah university data\second semester\oop\oop theory\oop project\final project\project_xorcipher -final\xorcipher.cpp
+	"xorcipher.h"
+
+1687087959 c:\users\abdullah rahim\onedrive - higher education commission\abdullah university data\second semester\oop\oop theory\oop project\final project\project_xorcipher -final\xorcipher.h
+	"header.h"
+
+1687065540 c:\users\abdullah rahim\onedrive - higher education commission\abdullah university data\second semester\oop\oop theory\oop project\final project\project_xorcipher -final\header.h
+	<iostream>
+	<string>
+	<fstream>
+	<bitset>
+	<iomanip>
+	<vector>
+
+1687096200 source:c:\users\abdullah rahim\onedrive - higher education commission\abdullah university data\second semester\oop\oop theory\oop project\final project\project_xorcipher -final\main.cpp
+	"mainheader.h"
+
+1687087933 c:\users\abdullah rahim\onedrive - higher education commission\abdullah university data\second semester\oop\oop theory\oop project\final project\project_xorcipher -final\mainheader.h
+	"header.h"
+	"hexadecimal.h"
+	"xorcipher.h"
+
+1687084117 c:\users\abdullah rahim\onedrive - higher education commission\abdullah university data\second semester\oop\oop theory\oop project\final project\project_xorcipher -final\hexadecimal.h
+	"header.h"
+
+1687084707 source:c:\users\abdullah rahim\onedrive - higher education commission\abdullah university data\second semester\oop\oop theory\oop project\final project\project_xorcipher -final\hexadecimal.cpp
+	"hexadecimal.h"
+
+1687282498 source:c:\users\abdullah rahim\onedrive - higher education commission\abdullah university data\second semester\oop\oop theory\oop project\final project\project_xorcipher -final-complete\hexadecimal.cpp
+	"hexadecimal.h"
+
+1687282438 c:\users\abdullah rahim\onedrive - higher education commission\abdullah university data\second semester\oop\oop theory\oop project\final project\project_xorcipher -final-complete\hexadecimal.h
+	"header.h"
+
+1687277044 c:\users\abdullah rahim\onedrive - higher education commission\abdullah university data\second semester\oop\oop theory\oop project\final project\project_xorcipher -final-complete\header.h
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+
+1687283284 source:c:\users\abdullah rahim\onedrive - higher education commission\abdullah university data\second semester\oop\oop theory\oop project\final project\project_xorcipher -final-complete\xorcipher.cpp
+	"xorcipher.h"
+
+1687282852 c:\users\abdullah rahim\onedrive - higher education commission\abdullah university data\second semester\oop\oop theory\oop project\final project\project_xorcipher -final-complete\xorcipher.h
+	"header.h"
+
+1687284591 source:c:\users\abdullah rahim\onedrive - higher education commission\abdullah university data\second semester\oop\oop theory\oop project\final project\project_xorcipher -final-complete\main.cpp
+	"mainheader.h"
+
+1687087933 c:\users\abdullah rahim\onedrive - higher education commission\abdullah university data\second semester\oop\oop theory\oop project\final project\project_xorcipher -final-complete\mainheader.h
+	"header.h"
+	"hexadecimal.h"
+	"xorcipher.h"
+
